@@ -1,6 +1,6 @@
-# Nom du Projet (ex: MyManager - Gestion Hospitalière)
+# Nom du Projet5 ( CL LAW FIRM)
 
-<!-- Mettez un court slogan ou une description en une phrase ici -->
+<!-- Cabinet de consultation juridique -->
 > Application Backoffice de gestion réalisée dans le cadre du module Dévelopement web.
 
 ## 🔗 Liens Importants
@@ -13,13 +13,13 @@
 
 ## 👥 Membres de l'Équipe
 
-**Nom du Groupe :** [Insérer le nom du groupe ici]
+**Nom du Groupe :** [CL]
 
 | Prénom & Nom | Rôle / Tâches principales | Lien Github |
 |--------------|---------------------------|-------------|
-| Étudiant 1   | (ex: Dashboard, ChartJS)  | [@pseudo](https://github.com/pseudo) |
-| Étudiant 2   | (ex: CRUD Utilisateurs)   | [@pseudo](https://github.com/pseudo) |
-| Étudiant 3   | (ex: CSS, Responsive)     | [@pseudo](https://github.com/pseudo) |
+| Étudiant 1   | (CHAHD BOUAYAD)  | [@pseudo](https://github.com/pseudo) |
+| Étudiant 2   | (LEILA ZOUHAIR)   | [@pseudo](https://github.com/pseudo) |
+| Étudiant 3   | (.)     | [@pseudo](https://github.com/pseudo) |
 
 ---
 
