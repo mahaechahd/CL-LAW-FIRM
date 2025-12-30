@@ -25,8 +25,10 @@
 
 ## 📝 Thème Choisi
 <!-- Indiquez le thème choisi parmi la liste ou votre sujet personnalisé -->
-*   **Thème :** (ex: Gestion de Bibliothèque / Gestion Immobilière / Custom...)
-*   **Description :** Une brève explication du but de l'application.
+*   **Thème :** LAW FIRM WEBSITE<img width="1011" height="193" alt="image" src="https://github.com/user-attachments/assets/c74e022d-cd32-4c50-afcc-e1871e1a078e" />
+
+*   **Description :Our law firm web application simplifies legal services, offering secure case management<img width="1382" height="70" alt="image" src="https://github.com/user-attachments/assets/d82b3428-ea84-4fab-8c68-ccf9ff1f6022" />
+
 
 ---
 
@@ -34,10 +36,10 @@
 <!-- Cochez les cases [x] pour les fonctionnalités terminées. Laissez [ ] pour ce qui n'est pas fait. -->
 
 ### Fonctionnalités Principales
-- [ ] **CRUD 1 :** [Nom Entité, ex: Utilisateurs] (Create, Read, Update, Delete)
-- [ ] **CRUD 2 :** [Nom Entité]
-- [ ] **CRUD 3 :** [Nom Entité]
-- [ ] **CRUD 4 :** [Nom Entité]
+- [ ] **CRUD 1 :** [client] (Create, Read, Update, Delete)
+- [ ] **CRUD 2 :** [lowyers]
+- [ ] **CRUD 3 :** [partners]
+- [ ] **CRUD 4 :** [cases]
 - [ ] **CRUD 5 :** [Nom Entité]
 - [ ] **Recherche & Filtres** dans les tableaux
 - [ ] **Pagination**
