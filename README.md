@@ -19,7 +19,7 @@
 |--------------|---------------------------|-------------|
 | Étudiant 1   | (CHAHD BOUAYAD)  | [@pseudo](https://github.com/pseudo) |
 | Étudiant 2   | (LEILA ZOUHAIR)   | [@pseudo](https://github.com/pseudo) |
-| Étudiant 3   | (.)     | [@pseudo](https://github.com/pseudo) |
+
 
 ---
 
@@ -40,21 +40,31 @@
 - [ ] **CRUD 2 :** [lowyers]
 - [ ] **CRUD 3 :** [partners]
 - [ ] **CRUD 4 :** [cases]
-- [ ] **CRUD 5 :** [Nom Entité]
+- [ ] **CRUD 5 :** [users]
 - [ ] **Recherche & Filtres** dans les tableaux
-- [ ] **Pagination**
+- [ ] **Pagination** Pagination côté client
+                     Limite du nombre de lignes affichées
 
 ### Dashboard & Data
-- [ ] **KPIs :** Cartes avec chiffres clés (Total utilisateurs, revenus, etc.)
-- [ ] **Chart 1 :** [Type, ex: Pie Chart]
-- [ ] **Chart 2 :** [Type, ex: Bar Chart]
-- [ ] **Chart 3 :** [Type]
-- [ ] **Chart 4 :** [Type]
-- [ ] **Chart 5 :** [Type]
+- [ ] **KPIs :** Total clients
+
+                 Total lawyers
+
+                 Total cases
+
+                 Total partners
+- [ ] **Chart 1 :** [Pie Chart, Répartition des cas par statut (en cours / clôturé)]
+- [ ] **Chart 2 :** [Bar Chart,Nombre de cas par avocat ]
+- [ ] **Chart 3 :** [Line Chart,Évolution du nombre de cas dans le temps]
+- [ ] **Chart 4 :** [Doughnut Chart,Répartition des utilisateurs (Clients / Lawyers / Partners)]
+- [ ] **Chart 5 :** [Bar Chart,Nombre de partenaires par domaine juridique]
 
 ### Technique & Bonus
-- [ ] **Export :** (PDF ou CSV)
-- [ ] **Architecture :** Code organisé sans Framework (Vanilla JS)
+- [ ] **Export :** (Export possible des données en CSV / PDF,
+                    Réalisable avec jsPDF)
+- [ ] **Architecture :** Pas de framework 
+                         Vanilla JS
+                         Code structuré en dossiers)
 - [ ] **Design :** Interface Responsive (Mobile/Tablette)
 
 ---
